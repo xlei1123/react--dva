@@ -1,6 +1,4 @@
 import React, {Component} from 'react';
-import ReactDom from 'react-dom'
-import Counter from './Components/Counter'
 export default class Index extends Component{
   handleClick() {
     // this.props.count = this.props.count + 1;
