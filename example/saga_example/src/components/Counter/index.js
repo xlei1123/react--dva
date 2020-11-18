@@ -16,4 +16,4 @@ export default connect(({CounterData}) => {
   return {
     ...CounterData
   }
-}, {get, add})(Counter)
+}, { get, add })(Counter)
